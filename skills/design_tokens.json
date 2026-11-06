@@ -1,0 +1,33 @@
+{
+  "system_name": "Nexus Design Engine",
+  "author": "Harpreet Singh",
+  "theme": {
+    "color_palette": {
+      "primary": "#0f172a",
+      "secondary": "#2563eb",
+      "accent": "#06b6d4",
+      "success": "#10b981",
+      "warning": "#f59e0b",
+      "danger": "#ef4444",
+      "background": "#ffffff",
+      "surface": "#f8fafc"
+    },
+    "typography": {
+      "font_family_heading": "Inter, system-ui, sans-serif",
+      "font_family_mono": "Fira Code, JetBrains Mono, monospace",
+      "scale": {
+        "display": "2.5rem",
+        "h1": "2.0rem",
+        "h2": "1.5rem",
+        "body": "1.0rem",
+        "caption": "0.875rem"
+      }
+    },
+    "spacing": {
+      "unit": 4,
+      "card_padding": "1.5rem",
+      "grid_gap": "1.25rem",
+      "border_radius": "0.75rem"
+    }
+  }
+}
