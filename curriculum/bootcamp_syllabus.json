@@ -1,0 +1,62 @@
+{
+  "curriculum_title": "Nexus AI Engineering & Full-Stack Mastery Bootcamp",
+  "instructor": "Harpreet Singh",
+  "modules": [
+    {
+      "day": 1,
+      "topic": "Autonomous AI Agents & Operational Architecture"
+    },
+    {
+      "day": 2,
+      "topic": "State Machines vs Dynamic Workflows"
+    },
+    {
+      "day": 3,
+      "topic": "Retrieval Augmented Generation (RAG) & Function Calling"
+    },
+    {
+      "day": 4,
+      "topic": "Agent Memory Architecture (Working vs Vector Ephemeral)"
+    },
+    {
+      "day": 5,
+      "topic": "Security Guardrails, Telemetry Tracing & LLM Evals"
+    },
+    {
+      "day": 6,
+      "topic": "Systematic Prompt Engineering & Chain-of-Thought"
+    },
+    {
+      "day": 7,
+      "topic": "Multi-Agent Swarm Orchestration"
+    },
+    {
+      "day": 8,
+      "topic": "Production Tooling, Linters & Virtualized Dev Setup"
+    },
+    {
+      "day": 9,
+      "topic": "AI-Assisted IDE Setup & Cursor/Claude Workflows"
+    },
+    {
+      "day": 10,
+      "topic": "Cloud Deployment, Serverless & Edge Hosting"
+    },
+    {
+      "day": 11,
+      "topic": "Cost Optimization & Token Economics"
+    },
+    {
+      "day": 12,
+      "topic": "Microservices, Web Architecture & Network Protocols"
+    },
+    {
+      "day": 13,
+      "topic": "TypeScript, Python & Core Object-Oriented Patterns"
+    },
+    {
+      "day": 14,
+      "topic": "Async APIs, WebSockets & Real-Time Event Communication"
+    }
+  ]
+}
